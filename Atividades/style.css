@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+header{
+    border-radius: 10px;
+    background-color: blueviolet;
+    padding: 15px;
+}
+
+header nav{
+    border-radius: 5px;
+    background-color: black;
+}
+
+header nav a{
+
+    display: inline-block;
+    width: 20vw;
+    color: red;
+    border-radius: 10px;
+}
+
+.caixa_texto {
+    display: inline-block;
+    width: 45%;
+    margin: 5%;
+    color: rgb(67, 129, 5);
+    background-color: black;
+    border: solid;
+    box-shadow: 2px 2px 10px red;
+    
+    
+}
+
+header h1 {
+    
+    text-align: center;
+}
+
+main{
+    border-radius: 10px;
+    background-color: rgb(0, 8, 255);
+    margin: 10px;
+    padding: 5px;
+}
+
+main p{
+    display: inline;
+    color: brown;
+    
+}
+
+footer {
+    border-radius: 10px;
+    background-color: blueviolet; 
+    padding: 5px;
+}
+
+footer h1 {
+
+    text-align: center;
+    
+}
